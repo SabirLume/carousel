@@ -2,6 +2,7 @@
 For this project I made a carousel web application. This web application flips through album art.
 
 
+Link to my project: https://sabirlume.github.io/carousel/
 
 ![alt text](carol.png)
 
